@@ -22,9 +22,8 @@ Docker-based deployments (Dokploy, Nixpacks)
 ## 🧠 Tech Stack
 
 **Frontend & CMS** - WordPress (Elementor, Divi, WPBakery) - HTML5, CSS3
-(Sass basics)
 
-**Design** - Figma (UX/UI, wireframes, prototypes)
+**Design** - Figma (UX/UI, wireframes, prototypes), Google Stitch 
 
 **Performance** - Core Web Vitals optimization - PageSpeed improvements
 
